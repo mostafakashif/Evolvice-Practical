@@ -1,0 +1,62 @@
+== Cars API
+Collection of CRUD API for cars.
+
+=== Get All Cars
+Return all cars in the system
+
+==== Sample Request
+include::{snippets}/cars-controller-integration-test/get-cars-test/http-request.adoc[]
+
+==== Sample Response
+include::{snippets}/cars-controller-integration-test/get-cars-test/http-response.adoc[]
+
+==== CURL sample
+include::{snippets}/cars-controller-integration-test/get-cars-test/curl-request.adoc[]
+
+=== Get Car By Id
+Return specific car details using its id
+
+==== Sample Request
+include::{snippets}/cars-controller-integration-test/get-car-by-id/http-request.adoc[]
+
+==== Sample Response
+include::{snippets}/cars-controller-integration-test/get-car-by-id/http-response.adoc[]
+
+==== CURL sample
+include::{snippets}/cars-controller-integration-test/get-car-by-id/curl-request.adoc[]
+
+=== Add New Car
+Add new car to the application
+
+==== Sample Request
+include::{snippets}/cars-controller-integration-test/create-car/http-request.adoc[]
+
+==== Sample Response
+include::{snippets}/cars-controller-integration-test/create-car/http-response.adoc[]
+
+==== CURL sample
+include::{snippets}/cars-controller-integration-test/create-car/curl-request.adoc[]
+
+=== Update Car Details
+Update car details 
+
+==== Sample Request
+include::{snippets}/cars-controller-integration-test/update-car/http-request.adoc[]
+
+==== Sample Response
+include::{snippets}/cars-controller-integration-test/update-car/http-response.adoc[]
+
+==== CURL sample
+include::{snippets}/cars-controller-integration-test/update-car/curl-request.adoc[]
+
+=== Delete Car By Id
+Delete car using its id
+
+==== Sample Request
+include::{snippets}/cars-controller-integration-test/delete-car-by-id/http-request.adoc[]
+
+==== Sample Response
+include::{snippets}/cars-controller-integration-test/delete-car-by-id/http-response.adoc[]
+
+==== CURL sample
+include::{snippets}/cars-controller-integration-test/delete-car-by-id/curl-request.adoc[]
