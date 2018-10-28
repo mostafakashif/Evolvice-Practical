@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/cars' -i -X PUT \
+    -H 'Content-Type: application/json' \
+    -d '{"carId":2,"brand":"TestBrand4","model":null,"yearOfProduction":"1990","category":"TestCategory","links":[]}'
+----

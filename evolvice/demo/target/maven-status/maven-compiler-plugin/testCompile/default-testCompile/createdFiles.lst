@@ -1,0 +1,5 @@
+com\evolvice\task\evolvice\CarServiceIntegrationTest.class
+com\evolvice\task\evolvice\EvolviceApplicationTests.class
+com\evolvice\task\evolvice\CarServiceIntegrationTest$CarServiceImplTestContextConfiguration.class
+com\evolvice\task\evolvice\CarRepositoryIntegrationTest.class
+com\evolvice\task\evolvice\CarsControllerIntegrationTest.class

@@ -1,0 +1,11 @@
+com\evolvice\task\evolvice\service\DefaultCarService.class
+com\evolvice\task\evolvice\repositories\CarRepository.class
+com\evolvice\task\evolvice\exceptions\TaskExceptionHandler.class
+com\evolvice\task\evolvice\entities\Car.class
+com\evolvice\task\evolvice\service\CarService.class
+com\evolvice\task\evolvice\exceptions\CarServiceException.class
+com\evolvice\task\evolvice\exceptions\TaskErrorModel.class
+com\evolvice\task\evolvice\configuration\SecurityConfiguration.class
+com\evolvice\task\evolvice\entities\Car_.class
+com\evolvice\task\evolvice\EvolviceApplication.class
+com\evolvice\task\evolvice\controllers\CarsController.class

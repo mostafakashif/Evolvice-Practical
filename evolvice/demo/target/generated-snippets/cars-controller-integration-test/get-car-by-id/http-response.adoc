@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/hal+json;charset=UTF-8
+Content-Length: 103
+
+{"carId":3,"brand":"TestBrand","model":"TestModel","yearOfProduction":"1990","category":"TestCategory"}
+----

@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+[{"carId":1,"brand":"TestBrand","model":"TestModel","yearOfProduction":"1990","category":"TestCategory","links":[{"rel":"cars","href":"http://localhost:8080/cars","hreflang":null,"media":null,"title":null,"type":null,"deprecation":null},{"rel":"self","href":"http://localhost:8080/cars/1","hreflang":null,"media":null,"title":null,"type":null,"deprecation":null}]},{"carId":2,"brand":"TestBrand_2","model":"TestModel_2","yearOfProduction":"1990","category":"TestCategory_2","links":[{"rel":"cars","href":"http://localhost:8080/cars","hreflang":null,"media":null,"title":null,"type":null,"deprecation":null},{"rel":"self","href":"http://localhost:8080/cars/2","hreflang":null,"media":null,"title":null,"type":null,"deprecation":null}]}]
+----

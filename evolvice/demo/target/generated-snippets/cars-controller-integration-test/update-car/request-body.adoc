@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"carId":2,"brand":"TestBrand4","model":null,"yearOfProduction":"1990","category":"TestCategory","links":[]}
+----
